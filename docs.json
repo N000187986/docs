@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guides(json_指南)",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Getting started(json_開始使用)",
             "pages": [
               "index",
               "quickstart",
@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Customization(json_客製化)",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Writing content(json_內容寫作)",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -38,7 +38,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "AI tools(json_AI工具)",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -48,16 +48,16 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API reference(json_API參考)",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "API documentation(json_API文件)",
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint examples",
+            "group": "Endpoint examples(json_端點範例)",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
@@ -71,12 +71,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Documentation(json_文件)",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
+          "anchor": "Blog(json_部落格)",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
